@@ -8,3 +8,5 @@ Reproducible jupyter notebooks in R language to replicate the main figures of th
 - **Fig5-6**: Synoptic environments associated with the four most frequent Weather Types (WTs) linked to HIPEs in the Alpine region.
 - **Fig7**: Spatial distribution and impact relevance of dominant WTs associated with HIPEs in the Alps
 - **Fig8**: Total accumulated precipitation (mm) associated with the top 10  HIPEs detected in the Alpine region during 1961–2022. 
+
+*Data needed for reproducing the codes will be available once the manuscript is accepted.*
