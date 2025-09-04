@@ -9,5 +9,3 @@ Reproducible jupyter notebooks in R language to replicate the main figures of th
 - **Fig7**: Spatial distribution and impact relevance of dominant WTs associated with HIPEs in the Alps
 - **Fig8**: Total accumulated precipitation (mm) associated with the top 10  HIPEs detected in the Alpine region during 1961–2022. 
 
-*Data needed for reproducing the above codes will be available after manuscript acceptance.*
-
